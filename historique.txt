@@ -1,0 +1,10 @@
+*   55483ef git cherry-pick 8ec2f37Merge branch 'contact'
+|\  
+| * fdb250a Ajout de la page contact
+| * d0300ef Ajout de la page contact
+| * 8ec2f37 Ajout d'un paragraphe de presentation
+* | afb9bfb Ajout d'un paragraphe de presentation
+|/  
+* 080653f Ajout du gitignore
+* 9610eb5 Ajout de la page d'accueil
+* 0cadfe7 Ajout du README
